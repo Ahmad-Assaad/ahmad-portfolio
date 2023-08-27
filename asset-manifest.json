@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ahmad-portfolio/static/css/main.a3ceb6be.css",
+    "main.js": "/ahmad-portfolio/static/js/main.1b59ab57.js",
+    "static/js/787.c06d3810.chunk.js": "/ahmad-portfolio/static/js/787.c06d3810.chunk.js",
+    "static/media/Ahmad Assaad.pdf": "/ahmad-portfolio/static/media/Ahmad Assaad.d5dcda562226c7f87094.pdf",
+    "static/media/ahmad-bio.jpg": "/ahmad-portfolio/static/media/ahmad-bio.d33ef318b1d55cfe8e55.jpg",
+    "static/media/whatsapp.png": "/ahmad-portfolio/static/media/whatsapp.3c649b6341003b2425bb.png",
+    "index.html": "/ahmad-portfolio/index.html",
+    "main.a3ceb6be.css.map": "/ahmad-portfolio/static/css/main.a3ceb6be.css.map",
+    "main.1b59ab57.js.map": "/ahmad-portfolio/static/js/main.1b59ab57.js.map",
+    "787.c06d3810.chunk.js.map": "/ahmad-portfolio/static/js/787.c06d3810.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3ceb6be.css",
+    "static/js/main.1b59ab57.js"
+  ]
+}
