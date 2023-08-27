@@ -54,7 +54,7 @@ function Experiences() {
               <b>OneStop autoservices</b>
             </h3>
             <dl>
-              <dt>12/2019 - Present</dt>
+              <dt>2/2019 - Present</dt>
               <dd>CEO</dd>
             </dl>
           </div>
