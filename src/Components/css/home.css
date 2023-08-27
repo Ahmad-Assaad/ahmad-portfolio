@@ -1,0 +1,197 @@
+/* #e8bcb9,
+#f39f5a,
+#ae445a,
+#662459,
+#451952,
+#1d1a39 */
+html {
+  scroll-behavior: smooth;
+}
+
+.App {
+  position: absolute;
+  background-color: black;
+  padding: 0;
+  margin: 0;
+}
+
+.head {
+  display: flex;
+  flex-direction: row;
+  margin-top: 2%;
+}
+
+#logo {
+  width: 120px;
+  height: 100px;
+}
+
+#hello {
+  color: #a86e3a;
+  margin-left: 1%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 50px;
+}
+
+.home {
+  display: grid;
+  place-items: center;
+  margin-top: 2%;
+  margin-left: 7%;
+  margin-right: 7%;
+  border-radius: 10px;
+  padding: 5%;
+  background-image: linear-gradient(-45deg, #bfb0a3, #c4a956, #635d4d);
+}
+
+#biography {
+  display: flex;
+  flex: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+#profile {
+  width: 800px;
+  height: 550px;
+  border-radius: 10px;
+}
+
+#about-header {
+  font-size: 40px;
+  color: #02000d;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#about-me {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 25px;
+  color: #02000d;
+  text-align: justify;
+}
+
+#resume {
+  background-color: #02000d;
+  color: #c2ac74;
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 10px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 40px;
+  transition: all 0.3s ease-in-out;
+}
+
+#resume:hover {
+  cursor: pointer;
+  background-color: #635d4d;
+  color: #a86e3a;
+  font-size: 43px;
+  padding: 13px;
+  transition: all 0.3s ease-in-out;
+}
+
+.App footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+  background-image: linear-gradient(-45deg, #bfb0a3, #c4a956, #635d4d);
+}
+
+.links {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+#copyright {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bold;
+  color: #02000d;
+}
+
+#whatsapp,
+#linkedin,
+#mail {
+  width: 50px;
+  height: 50px;
+  transition: all 0.2s ease-in-out;
+}
+
+#whatsapp:hover,
+#linkedin:hover,
+#mail:hover {
+  width: 55px;
+  height: 55px;
+  transition: all 0.2s ease-in-out;
+}
+
+@media (max-width: 768px) {
+  .head {
+    margin-top: 10%;
+  }
+
+  #logo {
+    width: 50px;
+    height: 40px;
+  }
+
+  #hello {
+    font-size: larger;
+  }
+
+  .home {
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+
+  #biography {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1px;
+  }
+
+  #profile {
+    width: 300px;
+    height: 200px;
+  }
+
+  #about-header {
+    font-size: 30px;
+  }
+  #about-me {
+    font-size: 15px;
+    color: #1d1a39;
+  }
+
+  #resume {
+    padding: 5px;
+    font-size: 20px;
+  }
+
+  #resume:hover {
+    font-size: 25px;
+    padding: 8px;
+  }
+
+  #whatsapp,
+  #linkedin,
+  #mail {
+    width: 40px;
+    height: 40px;
+  }
+  #whatsapp:hover,
+  #linkedin:hover,
+  #mail:hover {
+    width: 43px;
+    height: 43px;
+  }
+
+  #copyright {
+    font-size: 13px;
+  }
+}
