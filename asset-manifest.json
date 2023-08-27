@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/ahmad-portfolio/static/css/main.a3ceb6be.css",
-    "main.js": "/ahmad-portfolio/static/js/main.1b59ab57.js",
+    "main.css": "/ahmad-portfolio/static/css/main.ad174d12.css",
+    "main.js": "/ahmad-portfolio/static/js/main.20bb1c24.js",
     "static/js/787.c06d3810.chunk.js": "/ahmad-portfolio/static/js/787.c06d3810.chunk.js",
     "static/media/Ahmad Assaad.pdf": "/ahmad-portfolio/static/media/Ahmad Assaad.d5dcda562226c7f87094.pdf",
     "static/media/ahmad-bio.jpg": "/ahmad-portfolio/static/media/ahmad-bio.d33ef318b1d55cfe8e55.jpg",
-    "static/media/whatsapp.png": "/ahmad-portfolio/static/media/whatsapp.3c649b6341003b2425bb.png",
+    "static/media/gear5.png": "/ahmad-portfolio/static/media/gear5.38366efb0c662e08ee42.png",
+    "static/media/OneStop icon.png": "/ahmad-portfolio/static/media/OneStop icon.5ff049690aeeb5f8af63.png",
+    "static/media/360degree.png": "/ahmad-portfolio/static/media/360degree.6243db21e512cfa36ade.png",
+    "static/media/logo.png": "/ahmad-portfolio/static/media/logo.a0c835e1c67962f55432.png",
+    "static/media/smartsecurity.png": "/ahmad-portfolio/static/media/smartsecurity.7141fa819e7d76d73c72.png",
+    "static/media/skills.png": "/ahmad-portfolio/static/media/skills.1f9c38735754ba0099bc.png",
+    "static/media/language.png": "/ahmad-portfolio/static/media/language.1cbf03eaa51f3807cfd2.png",
     "index.html": "/ahmad-portfolio/index.html",
-    "main.a3ceb6be.css.map": "/ahmad-portfolio/static/css/main.a3ceb6be.css.map",
-    "main.1b59ab57.js.map": "/ahmad-portfolio/static/js/main.1b59ab57.js.map",
+    "main.ad174d12.css.map": "/ahmad-portfolio/static/css/main.ad174d12.css.map",
+    "main.20bb1c24.js.map": "/ahmad-portfolio/static/js/main.20bb1c24.js.map",
     "787.c06d3810.chunk.js.map": "/ahmad-portfolio/static/js/787.c06d3810.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3ceb6be.css",
-    "static/js/main.1b59ab57.js"
+    "static/css/main.ad174d12.css",
+    "static/js/main.20bb1c24.js"
   ]
 }
